@@ -1,3 +1,9 @@
+![Version](https://img.shields.io/badge/Version-60.1_Mastery-blue)
+![Compliance](https://img.shields.io/badge/Compliance-OMB_M--25--21-green)
+![Security](https://img.shields.io/badge/Audit-HMAC--SHA256_Chained-red)
+![Platform](https://img.shields.io/badge/Platform-Sovereign_Cloud_/_On--Prem-orange)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your-repo-link)
+
 # VerPoint-Core
 Adversarial information integrity engine using tier-weighted authority and temporal decay to audit LLM claims.
 
