@@ -6,7 +6,7 @@ Adversarial information integrity engine using tier-weighted authority and tempo
 
 ### 1. AI Transparency Statement (Compliance 2026)
 In accordance with 2026 AI Transparency standards: 
-* **Model Type:** VerPoint v40 is a *Deterministic Heuristic Engine*. It is not a Large Language Model (LLM) and does not "generate" facts; it audits existing data using programmed weights.
+* **Model Type:** VerPoint AI is a *Deterministic Heuristic Engine*. It is not a Large Language Model (LLM) and does not "generate" facts; it audits existing data using programmed weights.
 * **Data Sources:** This framework analyzes public web data via third-party APIs (Tavily/Serper). It does not store or "train" on user-inputted claims.
 * **Human-in-the-Loop:** VerPoint is designed as a Decision Support Tool. All "Integrity Scores" must be verified by a qualified human professional before action is taken.
 
