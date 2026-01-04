@@ -18,3 +18,10 @@ The outputs of VerPoint AI, including "Integrity Scores" and "Market Probabiliti
 
 ### 4. License
 This project is licensed under the **Apache License 2.0**.
+
+## 🔒 Proprietary Logic Warning
+This repository contains the **VerPoint AI V60 Master Kernel**. 
+The logic contained herein (specifically the **Sovereign Audit Loop** and **HMAC Ledger Chaining**) 
+is protected under Trade Secret laws. Access is granted for IP acquisition review only. 
+Unauthorized cloning for commercial competition is strictly prohibited. 
+See [LEGAL.md](./LEGAL.md) for the full NDA and Proprietary Rights Agreement.
