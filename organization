@@ -1,6 +1,0 @@
-├── .github/             # Issue templates & Workflows
-├── core/                # The V60 Master Kernel (Python)
-├── docs/                # GSA Whitepapers & OMB Compliance Docs
-├── legal/               # The NDA & Proprietary Rights Agreement
-├── vault/               # (Hidden) Sample Sovereign Ledgers
-└── README.md            # The Pitch & Technical Overview
